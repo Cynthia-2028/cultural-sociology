@@ -54,17 +54,6 @@ cultural-sociology/
 └── CHANGELOG.md
 ```
 
-## 依据
-
-- 素材：**106 份 PDF / 12,682 页 / 3,006 万字符**（文化社会学 98 份：布迪厄 16、强纲领 49、计算测量 22、拉蒙 8、后殖民 3；计算社会学 8 份）。
-- 精读：按字符加权 **约 32.7%**，逐份比例与阅读范围见 `references/audit.md`。**没有声称通读全文**——1200 页以上的专著是选读关键章。
-- 页码一律为 PDF 物理页，用于定位，不替代原文核对。
-- 已修正若干流传较广的错误说法（强纲领是三条不是四条；Mohr 2020 无"四条路径"；*Making Sense of Culture* 是 Patterson 2014；Vaisey 2009 未用 MODE；Edelmann 等 2020 是"解释/预测"二分而非四分法），逐条见 `audit.md` §3。
-
-## 使用
-
-把整个目录放进 WorkBuddy 的技能目录（`~/.workbuddy/skills/cultural-sociology/`），或在支持 Agent Skills 的客户端中加载 `SKILL.md`。也可直接阅读 `references/` 下的文件——它们本身是可独立使用的知识底稿。
-
 ## 许可
 
 保留所有权利，详见 `LICENSE`。
